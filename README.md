@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arkreii
+- 👋 Hi, I’m @Kendotcom
 - 👀 I’m interested in creating bots
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
